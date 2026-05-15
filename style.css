@@ -134,6 +134,10 @@ h2 {
     animation-delay: 0.7s;
 }
 
+.card:nth-child(8) {
+    animation-delay: 0.8s;
+}
+
 .card:hover {
     transform: translateY(-15px) scale(1.02);
     background: var(--card-hover);
